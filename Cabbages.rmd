@@ -74,4 +74,4 @@ We reject the hypothesis because the P value is 0.00000003405 which is less than
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-The null hypothesis is rejected due to the p value being 3.405e-08. The data was retrieved from the helper file num~cat. In conclusion the VitC c52 has higher levels vs c39.
+The null hypothesis is rejected due to the p value being 0.00000003405. The data was retrieved from the helper file num~cat. In conclusion the VitC c52 has higher levels vs c39.
