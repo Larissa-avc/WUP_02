@@ -68,7 +68,7 @@ The numerical summary shows that c52 method has about 15% more than c39 method.
 t.test(VitC~Cult,data=veggy)
 ```
 
-We reject the hypothesis because the P value is 3.405e-08 which is less than 0.05. The VitC c52 method has higher levels than the c39 method.
+We reject the hypothesis because the P value is 0.00000003405 which is less than 0.05. The VitC c52 method has higher levels than the c39 method.
 
 # Discussion and Conclusion
 
